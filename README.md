@@ -8,4 +8,4 @@ En este video tutorial aprendí a como realizar el servidor de SpringBoot desde 
 Este es el video en el que aprendí a como realizar las funciones que a futuro nos van a ser utiles para usar Vue como front.
 
 #NOTAS:
-En el archivo de propiedades de la aplicación (demo-crud/src/main/resources/application.properties, linea: 5), es importante configurar la propiedad que permite crear automaticamente una tabla en la BD cuando no existe. Sin ella te saldrá un error 500, resultado de buscar algo que no existe.
+En el archivo de propiedades de la aplicación (demo-crud/src/main/resources/application.properties, linea: 5), es importante configurar la propiedad que permite crear automaticamente una tabla en la BD cuando no existe, ya que en el video no lo mencionan. Sin ella te saldrá un error 500, resultado de buscar algo que no existe.
